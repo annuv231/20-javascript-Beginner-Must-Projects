@@ -2,6 +2,8 @@
 Javascript beginner freindly projects
 
 
+## [1. Expanding cards](https://github.com/annuv231/20-javascript-Beginner-Must-Projects/tree/main/1-Expanding%20cards "1. Expanding cards")
+![chrome-capture-2022-10-12 (1)](https://user-images.githubusercontent.com/33187053/201487473-2314b208-4bf7-4d71-8b2d-973e47061f63.gif)
 
 ## [2. Progress steps](https://github.com/annuv231/20-javascript-Beginner-Must-Projects/tree/main/2-Progress%20steps)
 ![chrome-capture-2022-10-12 (2)](https://user-images.githubusercontent.com/33187053/201486808-c89d4e93-6854-48c2-b94f-b67998e0b5e7.gif)
