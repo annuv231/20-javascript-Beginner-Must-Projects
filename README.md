@@ -3,7 +3,7 @@ Javascript beginner freindly projects
 
 
 
-## [2. Progress steps](https://github.com/annuv231/50-Javascript-Projects/tree/main/2-Progress%20steps:// "2. Progress steps")
+## [2. Progress steps](https://github.com/annuv231/20-javascript-Beginner-Must-Projects/tree/main/2-Progress%20steps)
 ![chrome-capture-2022-10-12 (2)](https://user-images.githubusercontent.com/33187053/201486808-c89d4e93-6854-48c2-b94f-b67998e0b5e7.gif)
 
 ## [4. Button Ripple Effect](https://github.com/annuv231/50-Javascript-Projects/tree/main/4.button%20ripple%20effect "4. Button Ripple Effect")
