@@ -12,6 +12,8 @@ Javascript beginner freindly projects
  ![chrome-capture-2022-10-12 (1)](https://user-images.githubusercontent.com/33187053/201486703-d941aae1-d017-4faf-a731-1e179b44ba4c.gif)
 
 ## [5. Real time character counter app](https://github.com/annuv231/50-Javascript-Projects/tree/main/5.%20Real%20time%20character%20counter "5. Real time character counter app")
+## [6. Heart trail animation]("https://github.com/annuv231/20-javascript-Beginner-Must-Projects/tree/main/6.%20heart%20trail%20animation")
+![heart trailing](https://user-images.githubusercontent.com/33187053/201491748-3e993ce8-ccef-4c34-9302-3aa64329bbca.gif)
 
 ![chrome-capture-2022-10-12](https://user-images.githubusercontent.com/33187053/201486547-451fe34d-9a40-4c19-af9e-68187f0539e5.gif)
 
