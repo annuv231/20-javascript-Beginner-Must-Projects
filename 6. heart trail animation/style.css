@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  background-color: black;
+  overflow: hidden;
+}
+span {
+  background-image: url("./heart.png");
+  /* height: 0px;
+  width: 0px; */
+  position: absolute;
+  background-size: cover;
+  pointer-events: none;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  animation: animate 10s linear;
+  color: green;
+}
+
+@keyframes animate {
+  0% {
+    opacity: 1;
+    transform: translate(-50%, -50%);
+    filter: hue-rotate(0);
+  }
+  100% {
+    opacity: 0;
+    transform: translate(-50%, -5000%);
+    filter: hue-rotate(720deg);
+  }
+}
